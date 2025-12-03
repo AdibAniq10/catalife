@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941006871218",
+    "project_id": "catalife-kktmpj",
+    "storage_bucket": "catalife-kktmpj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941006871218:android:ae2500d811251c920a07ab",
+        "android_client_info": {
+          "package_name": "com.example.catalife_pj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDRMJ2gxkpfGrKX9elGqA50YOxLtIbBt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
